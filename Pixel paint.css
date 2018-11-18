@@ -1,0 +1,23 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+.paint-panel {
+	height: 90vh;
+	width: 90vh;
+	display: grid;
+	margin: 0 auto;
+	border: 2px solid red;
+}
+.colour-panel {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+.choose-colour {
+	height: 150px;
+	width: 150px;
+}
+.pixels {
+	border: 1px solid black;
+}
