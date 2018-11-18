@@ -14,7 +14,17 @@ body {
 	flex-wrap: wrap;
 	justify-content: flex-start;
 }
+.settings-block {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.settings-block h1{
+	margin: 0 auto;
+}
 .choose-colour {
+	margin: 0 auto;
 	height: 150px;
 	width: 150px;
 }
