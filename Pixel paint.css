@@ -3,8 +3,8 @@ body {
 	padding: 0;
 }
 .paint-panel {
-	height: 90vh;
-	width: 90vh;
+	height: 92vh;
+	width: 92vh;
 	display: grid;
 	margin: 0 auto;
 	border: 2px solid red;
